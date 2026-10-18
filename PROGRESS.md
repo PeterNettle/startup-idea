@@ -7,7 +7,7 @@
 - [x] KROK 4: CLAUDE.md zapsán.
 - Ověřeno: Claude for Startups - kohorta plná, přihlášky zavřené (claude.com/programs/startups).
 - [x] Fáze A: hlas zákazníků hotov -> 01-hlas-zakazniku/shrnuti-faze-a.md (5 témat, last30days + komentáře z arctic-shift + web doplňky). Čeká na Petrovo rozhodnutí.
-- [ ] Fáze B
+- [x] Fáze B: 7 nových kandidátů + přeskórování původních -> 02-prilezitosti/prehled-faze-b.md, plné karty top 3 -> 02-prilezitosti/karty-top3.md. Čeká na Petrův výběr 1-2 nápadů.
 - [ ] Fáze C
 - [ ] Fáze D
 - [ ] Fáze E
