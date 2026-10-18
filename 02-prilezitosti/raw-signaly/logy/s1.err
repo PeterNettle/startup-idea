@@ -1,0 +1,66 @@
+/last30days · researching: I would pay for an app or tool that does this
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=external
+[Planner]   sq1 label=primary search="I would pay for an app" sources=[reddit,hackernews,youtube,polymarket]
+[Planner]   sq2 label=take_my_money search="shut up and take my money tool" sources=[reddit,hackernews]
+[Planner]   sq3 label=willing_to_pay search="willing to pay for software that" sources=[reddit,hackernews]
+[HN] Searching for 'i pay app' (raw: 'I would pay for an app', since 2026-09-18, count=60)
+[YouTube] Searching YouTube for 'i would pay for an app tool that does this' (since 2026-09-18, count=40)
+[PM] Searching for 'I would pay for an app' with queries: ['I would pay for an app', 'would', 'pay'] (pages=4)
+[HN] Searching for 'shut up take my money' (raw: 'shut up and take my money tool', since 2026-09-18, count=60)
+[HN] Searching for 'willing pay software that' (raw: 'willing to pay for software that', since 2026-09-18, count=60)
+[HN] Filtered 55/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 31/60 false-positive hits for 'I would pay for an app'
+[HN] Enriching top 10 stories with comments
+[HN] Filtered 13/42 low-engagement stories
+[HN] Found 29 stories
+[HN] Prefix filter removed 17/29 false-positive hits for 'shut up and take my money tool'
+[HN] Enriching top 10 stories with comments
+[HN] Filtered 6/25 low-engagement stories
+[HN] Found 19 stories
+[HN] Prefix filter removed 8/19 false-positive hits for 'willing to pay for software that'
+[HN] Enriching top 10 stories with comments
+[PM] Domain expansion queries: ['props', 'Hide From New']
+[PM] Found 53 unique events across 5 queries
+[PM] Filtered 53 noise events (topic: 'I would pay for an app or tool that does this')
+[RedditSearch] 50 posts (t=month, 0 targeted subs)
+[RedditKeyless] Tier 1 (site search) 50 posts; no listings
+[RedditSearch] 50 posts (t=month, 0 targeted subs)
+[RedditKeyless] Tier 1 (site search) 50 posts; no listings
+[RedditSearch] 50 posts (t=month, 0 targeted subs)
+[RedditKeyless] Tier 1 (site search) 50 posts; no listings
+[RedditKeyless] arctic-shift backfilled 17 post scores
+[RedditKeyless] Relevance floor dropped 14 off-topic posts
+[RedditKeyless] arctic-shift backfilled 17 post scores
+[RedditKeyless] Relevance floor dropped 14 off-topic posts
+[RedditKeyless] arctic-shift backfilled 17 post scores
+[RedditKeyless] Relevance floor dropped 14 off-topic posts
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] eI0NM5hM-4o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Searching YouTube for 'i would pay for an app tool that does this review reaction breakdown' (since 2026-09-18, count=40)
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] gUGjiG81tiU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Searching YouTube for 'i would pay for an app tool that does this full complete official' (since 2026-09-18, count=40)
+[Hacker News] relevance prune dropped 25 of 29 items below the relevance/engagement floor
+[Hacker News] relevance prune dropped 10 of 12 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 26 of 36 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 33 of 36 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 17 of 36 items below the relevance/engagement floor
+[PM] Searching for 'i pay app' with queries: ['i pay app', 'pay'] (pages=4)
+[PM] Domain expansion queries: ['Movies', 'Awards']
+[PM] Found 38 unique events across 4 queries
+[PM] Filtered 38 noise events (topic: 'I would pay for an app or tool that does this')
+[GitHub] Star enrichment: fetching 1 repos
+[GitHub] 403 rate limited or forbidden: https://api.github.com/repos/storozhenko98/bailout
+✓ Research complete (181.5s) - Reddit: 20 threads, YouTube: 0 videos, HN: 17 stories, Polymarket: 0 markets, Github: 0 results
+
+Research quality: 3/4 core sources.
+Missing: YouTube (errored this run).
+
+Free fixes:
+  - YouTube errored - update yt-dlp: brew upgrade yt-dlp
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved output to /home/user/startup-idea/02-prilezitosti/raw-signaly/i-would-pay-for-an-app-or-tool-that-does-this-raw-v3.md
+
+Optional source omitted: X/Twitter was not enabled; research continued with the available sources.
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] D-2RPZ9j6lo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies

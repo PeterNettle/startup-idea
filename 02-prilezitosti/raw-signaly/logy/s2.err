@@ -1,0 +1,62 @@
+/last30days · researching: why is there no app or tool for this, someone should build it
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=external
+[Planner]   sq1 label=primary search="why is there no app for" sources=[reddit,hackernews,youtube,polymarket]
+[Planner]   sq2 label=someone_build search="someone should build a tool" sources=[reddit,hackernews]
+[Planner]   sq3 label=ask_hn search="Ask HN what tool do you wish existed" sources=[hackernews]
+[HN] Searching for 'there no app' (raw: 'why is there no app for', since 2026-09-18, count=60)
+[PM] Searching for 'why is there no app for' with queries: ['why is there no app for', 'why', 'there'] (pages=4)
+[YouTube] Searching YouTube for 'why is there no app tool for this, someone should build it' (since 2026-09-18, count=40)
+[HN] Searching for 'someone build' (raw: 'someone should build a tool', since 2026-09-18, count=60)
+[HN] Searching for 'ask hn do you wish existed' (raw: 'Ask HN what tool do you wish existed', since 2026-09-18, count=60)
+[HN] Filtered 56/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 14/60 false-positive hits for 'Ask HN what tool do you wish existed'
+[HN] Enriching top 10 stories with comments
+[HN] Filtered 44/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 28/60 false-positive hits for 'someone should build a tool'
+[HN] Enriching top 10 stories with comments
+[HN] Filtered 48/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 26/60 false-positive hits for 'why is there no app for'
+[HN] Enriching top 10 stories with comments
+[PM] Domain expansion queries: ['Hide From New', 'Formula 1']
+[PM] Found 31 unique events across 5 queries
+[PM] Filtered 31 noise events (topic: 'why is there no app or tool for this, someone should build it')
+[RedditSearch] 50 posts (t=month, 0 targeted subs)
+[RedditSearch] 50 posts (t=month, 0 targeted subs)
+[RedditKeyless] Tier 1 (site search) 50 posts; no listings
+[RedditKeyless] Tier 1 (site search) 50 posts; no listings
+[RedditKeyless] arctic-shift backfilled 15 post scores
+[RedditKeyless] Relevance floor dropped 15 off-topic posts
+[RedditKeyless] arctic-shift backfilled 15 post scores
+[RedditKeyless] Relevance floor dropped 15 off-topic posts
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] zhbCnkFFmLw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Searching YouTube for 'why is there no app tool for this, someone should build it review reaction breakdown' (since 2026-09-18, count=40)
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] gUGjiG81tiU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Searching YouTube for 'why is there no app tool for this, someone should build it full complete official' (since 2026-09-18, count=40)
+[Hacker News] relevance prune dropped 28 of 32 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 24 of 34 items below the relevance/engagement floor
+[Hacker News] relevance prune dropped 45 of 46 items below the relevance/engagement floor
+[Hacker News] relevance prune dropped 32 of 34 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 30 of 34 items below the relevance/engagement floor
+[PM] Searching for 'there no app' with queries: ['there no app', 'there'] (pages=4)
+[PM] Domain expansion queries: ['Elections', 'Geopolitics']
+[PM] Found 42 unique events across 4 queries
+[PM] Filtered 42 noise events (topic: 'why is there no app or tool for this, someone should build it')
+✓ Research complete (181.2s) - Reddit: 10 threads, YouTube: 0 videos, HN: 7 stories, Polymarket: 0 markets, Github: 0 results
+
+Research quality: 3/4 core sources.
+Missing: YouTube (errored this run).
+
+Free fixes:
+  - YouTube errored - update yt-dlp: brew upgrade yt-dlp
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved output to /home/user/startup-idea/02-prilezitosti/raw-signaly/why-is-there-no-app-or-tool-for-this-someone-should-build-it-raw-v3.md
+
+Optional source omitted: X/Twitter was not enabled; research continued with the available sources.
+[YouTube] Found 2 videos (1 within date range, keeping only in-range for balanced_recent)
+[YouTube] Fetching transcripts for up to 1 videos (target: 8): ['_6_d5g0ZDgw']
+[YouTube] Fetching transcripts for 1 videos
