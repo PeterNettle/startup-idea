@@ -8,7 +8,8 @@
 - Ověřeno: Claude for Startups - kohorta plná, přihlášky zavřené (claude.com/programs/startups).
 - [x] Fáze A: hlas zákazníků hotov -> 01-hlas-zakazniku/shrnuti-faze-a.md (5 témat, last30days + komentáře z arctic-shift + web doplňky). Čeká na Petrovo rozhodnutí.
 - [x] Fáze B: 7 nových kandidátů + přeskórování původních -> 02-prilezitosti/prehled-faze-b.md, plné karty top 3 -> 02-prilezitosti/karty-top3.md. Petr výsledek odmítl (varianty už řešených nápadů, bez dat z Redditu).
-- [x] Fáze B, druhý pokus: těžba poptávky z 78 komunit na Redditu + last30days -> 02-prilezitosti/nove-smery-z-signalu.md (24h péče CZ/SK/PL->DACH, AI zastání proti pojišťovnám). Čeká na Petra.
+- [x] Fáze B, druhý pokus: těžba poptávky z 78 komunit na Redditu + last30days -> 02-prilezitosti/nove-smery-z-signalu.md (24h péče, AI zastání proti pojišťovnám). Petr obojí zamítl, chce škálovatelné B2B.
+- [x] Fáze B, třetí pokus (B2B): těžba 34 B2B komunit + 4 běhy last30days -> 02-prilezitosti/b2b-kandidati.md. Doporučeno: AI příprava kmenových dat výrobních firem pro AI a migrace ERP (6,65). Čeká na Petra.
 - [ ] Fáze C
 - [ ] Fáze D
 - [ ] Fáze E
