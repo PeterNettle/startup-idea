@@ -31,6 +31,7 @@ Pokud skills nejsou v `~/.claude/skills/`, zkopíruj je tam z `.claude/skills/` 
 - Pokud zdroje nejsou dostupné, NESMÍŠ výsledek nahradit obyčejným vyhledáváním a tvrdit, že skill proběhl.
 - Před výzkumem reálně otestuj síť (curl na www.reddit.com, hn.algolia.com), `--diagnose` hlásí jen konfiguraci.
 - Potřebné domény v Network access (Custom + výchozí seznam): www.reddit.com, reddit.com, arctic-shift.photon-reddit.com, hn.algolia.com, news.ycombinator.com, gamma-api.polymarket.com, polymarket.com.
+- Stav sítě (2026-10-18, Network access = Full): funguje HN, Polymarket, arctic-shift, GitHub. www.reddit.com blokuje cloudové IP (403), proto engine nestáhne komentáře; doplňuj je z https://arctic-shift.photon-reddit.com/api/comments/search?link_id=<id>. YouTube přes yt-dlp blokuje bot check. Nová relace: `pip install --user yt-dlp` a zapsat `SETUP_COMPLETE=true`, `BROWSER_CONSENT=false`, `FROM_BROWSER=off` do ~/.config/last30days/.env.
 - API klíče (např. ScrapeCreators) patří do network secrets prostředí, ne do proměnných. Zakládat jen s Petrovým souhlasem.
 
 ## Kdo je Petr

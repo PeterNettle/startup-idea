@@ -1,0 +1,49 @@
+/last30days · researching: auto repair shop admin and insurance claims paperwork
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=evergreen_ok, cluster_mode=none, subqueries=3, source=external
+[Planner]   sq1 label=primary search="body shop insurance claim supplement adjuster" sources=[reddit,hackernews,polymarket]
+[Planner]   sq2 label=admin search="auto repair shop owner paperwork admin service writer" sources=[reddit]
+[Planner]   sq3 label=software search="shop management software estimates Tekmetric CCC Mitchell" sources=[reddit]
+[HN] Searching for 'body shop insurance claim supplement adjuster' (raw: 'body shop insurance claim supplement adjuster', since 2026-09-18, count=30)
+[PM] Searching for 'body shop insurance claim supplement adjuster' with queries: ['body shop insurance claim supplement adjuster', 'body', 'shop', 'insurance', 'claim', 'supplement'] (pages=3)
+[HN] Filtered 27/50 low-engagement stories
+[HN] Found 23 stories
+[HN] Prefix filter removed 12/23 false-positive hits for 'body shop insurance claim supplement adjuster'
+[HN] Enriching top 5 stories with comments
+[PM] Domain expansion queries: ['Games', 'Awards']
+[PM] Found 39 unique events across 8 queries
+[PM] Filtered 38 noise events (topic: 'auto repair shop admin and insurance claims paperwork')
+[RedditSearch] 25 posts (t=month, 6 targeted subs)
+[RedditSearch] 25 posts (t=month, 6 targeted subs)
+[RedditSearch] 25 posts (t=month, 6 targeted subs)
+[RedditKeyless] arctic-shift supplement: 59 new posts from 150 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 344
+[RedditKeyless] arctic-shift supplement: 59 new posts from 150 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 344
+[RedditKeyless] arctic-shift supplement: 59 new posts from 150 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 344
+[RedditKeyless] arctic-shift backfilled 37 post scores
+[RedditKeyless] Relevance floor dropped 332 off-topic posts
+[RedditKeyless] arctic-shift backfilled 37 post scores
+[RedditKeyless] Relevance floor dropped 332 off-topic posts
+[RedditKeyless] arctic-shift backfilled 37 post scores
+[RedditKeyless] Relevance floor dropped 332 off-topic posts
+[Hacker News] relevance prune dropped 10 of 11 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 27 of 36 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 27 of 36 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 29 of 36 items below the relevance/engagement floor
+[HN] Searching for 'auto repair shop' (raw: 'auto repair shop', since 2026-09-18, count=30)
+[PM] Searching for 'auto repair shop' with queries: ['auto repair shop', 'auto', 'repair', 'shop'] (pages=3)
+[HN] Filtered 25/60 low-engagement stories
+[HN] Found 30 stories
+[HN] Prefix filter removed 8/30 false-positive hits for 'auto repair shop'
+[HN] Enriching top 5 stories with comments
+[PM] Domain expansion queries: ['Games', 'Awards']
+[PM] Found 23 unique events across 6 queries
+[PM] Filtered 21 noise events (topic: 'auto repair shop admin and insurance claims paperwork')
+[GitHub] Star enrichment: fetching 1 repos
+[GitHub] 403 rate limited or forbidden: https://api.github.com/repos/Seb3thehacker/gearslip
+✓ Research complete (39.3s) - Reddit: 11 threads, YouTube: 0 videos, HN: 13 stories, Polymarket: 0 markets, Github: 0 results
+[last30days] Saved output to /home/user/startup-idea/01-hlas-zakazniku/raw/auto-repair-shop-admin-and-insurance-claims-paperwork-raw-v3.md
+
+Optional source omitted: X/Twitter was not enabled; research continued with the available sources.

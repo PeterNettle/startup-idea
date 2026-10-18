@@ -1,0 +1,46 @@
+/last30days · researching: foreign workers language barrier in factories and construction
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=opinion, freshness=evergreen_ok, cluster_mode=none, subqueries=3, source=external
+[Planner]   sq1 label=primary search="language barrier workers construction site" sources=[reddit,hackernews,polymarket]
+[Planner]   sq2 label=factory search="foreign workers factory communication training safety" sources=[reddit,hackernews]
+[Planner]   sq3 label=translation search="translation app crew Spanish speaking workers" sources=[reddit]
+[HN] Searching for 'language barrier workers construction site' (raw: 'language barrier workers construction site', since 2026-09-18, count=30)
+[PM] Searching for 'language barrier workers construction site' with queries: ['language barrier workers construction site', 'language', 'barrier', 'workers', 'construction', 'site'] (pages=3)
+[HN] Searching for 'foreign workers factory communication training safety' (raw: 'foreign workers factory communication training safety', since 2026-09-18, count=30)
+[HN] Filtered 2/60 low-engagement stories
+[HN] Found 30 stories
+[HN] Prefix filter removed 4/30 false-positive hits for 'language barrier workers construction site'
+[HN] Enriching top 5 stories with comments
+[HN] Filtered 11/40 low-engagement stories
+[HN] Found 29 stories
+[HN] Prefix filter removed 13/29 false-positive hits for 'foreign workers factory communication training safety'
+[HN] Enriching top 5 stories with comments
+[PM] Domain expansion queries: ['Formula 1', 'f1']
+[PM] Found 31 unique events across 8 queries
+[PM] Filtered 31 noise events (topic: 'foreign workers language barrier in factories and construction')
+[RedditSearch] 25 posts (t=month, 8 targeted subs)
+[RedditSearch] 25 posts (t=month, 8 targeted subs)
+[RedditSearch] 25 posts (t=month, 8 targeted subs)
+[RedditKeyless] arctic-shift supplement: 113 new posts from 200 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 476
+[RedditKeyless] arctic-shift supplement: 113 new posts from 200 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 476
+[RedditKeyless] arctic-shift supplement: 113 new posts from 200 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 476
+[RedditKeyless] arctic-shift backfilled 58 post scores
+[RedditKeyless] Relevance floor dropped 490 off-topic posts
+[RedditKeyless] arctic-shift backfilled 58 post scores
+[RedditKeyless] Relevance floor dropped 490 off-topic posts
+[RedditKeyless] arctic-shift backfilled 58 post scores
+[RedditKeyless] Relevance floor dropped 490 off-topic posts
+[Hacker News] relevance prune dropped 25 of 26 items below the relevance/engagement floor
+[Hacker News] relevance prune dropped 13 of 16 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 7 of 11 items below the relevance/engagement floor
+[PM] Searching for 'foreign workers language' with queries: ['foreign workers language', 'foreign', 'workers', 'language'] (pages=3)
+[PM] Domain expansion queries: ['Geopolitics', 'Foreign Policy']
+[PM] Found 26 unique events across 6 queries
+[PM] Filtered 26 noise events (topic: 'foreign workers language barrier in factories and construction')
+✓ Research complete (47.6s) - Reddit: 11 threads, YouTube: 0 videos, HN: 4 stories, Polymarket: 0 markets, Github: 0 results
+[last30days] Saved output to /home/user/startup-idea/01-hlas-zakazniku/raw/foreign-workers-language-barrier-in-factories-and-construction-raw-v3.md
+
+Optional source omitted: X/Twitter was not enabled; research continued with the available sources.

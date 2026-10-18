@@ -1,0 +1,76 @@
+/last30days · researching: AI bookkeeping and accounting firms for small businesses
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=external
+[Planner]   sq1 label=primary search="AI bookkeeping firm small business" sources=[reddit,hackernews,youtube,polymarket]
+[Planner]   sq2 label=pain search="bookkeeper too expensive small business behind on books" sources=[reddit,hackernews]
+[Planner]   sq3 label=bench search="Bench bookkeeping shutdown alternative" sources=[reddit,hackernews]
+[Planner]   sq4 label=ai_accountants search="AI replacing bookkeepers accountants automation" sources=[reddit,youtube,hackernews]
+[HN] Searching for 'ai bookkeeping firm small business' (raw: 'AI bookkeeping firm small business', since 2026-09-18, count=30)
+[PM] Searching for 'AI bookkeeping firm small business' with queries: ['AI bookkeeping firm small business', 'bookkeeping', 'firm', 'small', 'business'] (pages=3)
+[YouTube] Searching YouTube for 'ai bookkeeping accounting firms for small businesses' (since 2026-09-18, count=8)
+[HN] Searching for 'bookkeeper too expensive small business behind books' (raw: 'bookkeeper too expensive small business behind on books', since 2026-09-18, count=30)
+[HN] Searching for 'bench bookkeeping shutdown alternative' (raw: 'Bench bookkeeping shutdown alternative', since 2026-09-18, count=30)
+[HN] Searching for 'ai replacing bookkeepers accountants automation' (raw: 'AI replacing bookkeepers accountants automation', since 2026-09-18, count=30)
+[HN] Filtered 1/1 low-engagement stories
+[HN] Found 0 stories
+[HN] Filtered 27/60 low-engagement stories
+[HN] Found 30 stories
+[HN] Prefix filter removed 9/30 false-positive hits for 'AI bookkeeping firm small business'
+[HN] Enriching top 5 stories with comments
+[HN] Filtered 12/60 low-engagement stories
+[HN] Found 30 stories
+[HN] Enriching top 5 stories with comments
+[HN] Filtered 30/60 low-engagement stories
+[HN] Found 30 stories
+[HN] Prefix filter removed 17/30 false-positive hits for 'Bench bookkeeping shutdown alternative'
+[HN] Enriching top 5 stories with comments
+[PM] Domain expansion queries: ['Finance', 'Recurring']
+[PM] Found 37 unique events across 7 queries
+[PM] Filtered 35 noise events (topic: 'AI bookkeeping and accounting firms for small businesses')
+[RedditSearch] 25 posts (t=month, 6 targeted subs)
+[RedditSearch] 25 posts (t=month, 6 targeted subs)
+[RedditSearch] 25 posts (t=month, 6 targeted subs)
+[RedditSearch] 25 posts (t=month, 6 targeted subs)
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] 8baMba3neio: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Searching YouTube for 'ai bookkeeping accounting firms for small businesses' (since 2026-09-18, count=8)
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] 8baMba3neio: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[RedditKeyless] arctic-shift supplement: 79 new posts from 150 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 344
+[RedditKeyless] arctic-shift supplement: 79 new posts from 150 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 344
+[RedditKeyless] arctic-shift supplement: 79 new posts from 150 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 344
+[RedditKeyless] arctic-shift backfilled 31 post scores
+[RedditKeyless] Relevance floor dropped 306 off-topic posts
+[RedditKeyless] arctic-shift backfilled 31 post scores
+[RedditKeyless] Relevance floor dropped 306 off-topic posts
+[RedditKeyless] arctic-shift backfilled 31 post scores
+[RedditKeyless] Relevance floor dropped 306 off-topic posts
+[ArcticShift] listing search failed r/smallbusiness: URL Error: _ssl.c:1015: The handshake operation timed out
+[RedditKeyless] arctic-shift supplement: 62 new posts from 125 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 327
+[RedditKeyless] arctic-shift backfilled 31 post scores
+[RedditKeyless] Relevance floor dropped 293 off-topic posts
+[Reddit] relevance prune dropped 24 of 50 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 37 of 54 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 46 of 54 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 51 of 54 items below the relevance/engagement floor
+[Hacker News] relevance prune dropped 10 of 13 items below the relevance/engagement floor
+[PM] Searching for 'ai bookkeeping accounting' with queries: ['ai bookkeeping accounting', 'bookkeeping', 'accounting'] (pages=3)
+[PM] Domain expansion queries: ['Tech', 'Recurring']
+[PM] Found 24 unique events across 5 queries
+[PM] Filtered 24 noise events (topic: 'AI bookkeeping and accounting firms for small businesses')
+[GitHub] Star enrichment: fetching 1 repos
+[GitHub] 403 rate limited or forbidden: https://api.github.com/repos/qgis/QGIS-Enhancement-Proposals
+✓ Research complete (45.6s) - Reddit: 23 threads, YouTube: 0 videos, HN: 27 stories, Polymarket: 0 markets, Github: 0 results
+
+Research quality: 3/4 core sources.
+Missing: YouTube (errored this run).
+
+Free fixes:
+  - YouTube errored - update yt-dlp: brew upgrade yt-dlp
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved output to /home/user/startup-idea/01-hlas-zakazniku/raw/ai-bookkeeping-and-accounting-firms-for-small-businesses-raw-v3.md
+
+Optional source omitted: X/Twitter was not enabled; research continued with the available sources.

@@ -1,0 +1,45 @@
+/last30days · researching: manual sales order entry into ERP at distributors and manufacturers
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=opinion, freshness=evergreen_ok, cluster_mode=none, subqueries=3, source=external
+[Planner]   sq1 label=primary search="sales order entry ERP manual" sources=[reddit,hackernews,polymarket]
+[Planner]   sq2 label=email_pdf search="customer orders email PDF retype ERP automation" sources=[reddit,hackernews]
+[Planner]   sq3 label=customer_service search="customer service rep order entry data entry errors" sources=[reddit]
+[HN] Searching for 'sales order entry erp manual' (raw: 'sales order entry ERP manual', since 2026-09-18, count=30)
+[PM] Searching for 'sales order entry ERP manual' with queries: ['sales order entry ERP manual', 'sales', 'order', 'entry', 'ERP', 'manual'] (pages=3)
+[HN] Searching for 'customer orders email pdf retype erp automation' (raw: 'customer orders email PDF retype ERP automation', since 2026-09-18, count=30)
+[HN] Filtered 24/60 low-engagement stories
+[HN] Found 30 stories
+[HN] Prefix filter removed 11/30 false-positive hits for 'sales order entry ERP manual'
+[HN] Enriching top 5 stories with comments
+[HN] Filtered 32/60 low-engagement stories
+[HN] Found 28 stories
+[HN] Prefix filter removed 14/28 false-positive hits for 'customer orders email PDF retype ERP automation'
+[HN] Enriching top 5 stories with comments
+[PM] Domain expansion queries: ['KPIs', 'Finance']
+[PM] Found 47 unique events across 8 queries
+[PM] Filtered 47 noise events (topic: 'manual sales order entry into ERP at distributors and manufacturers')
+[RedditSearch] 25 posts (t=month, 7 targeted subs)
+[RedditSearch] 25 posts (t=month, 7 targeted subs)
+[RedditSearch] 25 posts (t=month, 7 targeted subs)
+[RedditKeyless] arctic-shift supplement: 105 new posts from 175 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 398
+[RedditKeyless] arctic-shift supplement: 105 new posts from 175 arctic results
+[RedditKeyless] arctic-shift supplement: 105 new posts from 175 arctic results
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 398
+[RedditKeyless] Tier 1 (site search) 25 posts; listing discovery 398
+[RedditKeyless] arctic-shift backfilled 26 post scores
+[RedditKeyless] Relevance floor dropped 373 off-topic posts
+[RedditKeyless] arctic-shift backfilled 26 post scores
+[RedditKeyless] Relevance floor dropped 373 off-topic posts
+[RedditKeyless] arctic-shift backfilled 26 post scores
+[RedditKeyless] Relevance floor dropped 373 off-topic posts
+[Hacker News] relevance prune dropped 18 of 19 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 21 of 27 items below the relevance/engagement floor
+[PM] Searching for 'manual sales order' with queries: ['manual sales order', 'manual', 'sales', 'order'] (pages=3)
+[PM] Domain expansion queries: ['KPIs', 'Finance']
+[PM] Found 46 unique events across 6 queries
+[PM] Filtered 46 noise events (topic: 'manual sales order entry into ERP at distributors and manufacturers')
+✓ Research complete (42.5s) - Reddit: 21 threads, YouTube: 0 videos, HN: 13 stories, Polymarket: 0 markets, Github: 0 results
+[last30days] Saved output to /home/user/startup-idea/01-hlas-zakazniku/raw/manual-sales-order-entry-into-erp-at-distributors-and-manufacturers-raw-v3.md
+
+Optional source omitted: X/Twitter was not enabled; research continued with the available sources.
