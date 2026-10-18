@@ -1,6 +1,6 @@
 # CLAUDE.md - Partner pro hledání a ověření startupového nápadu
 
-Tento soubor čte každá relace Claude Code. Obsahuje celý kontext projektu.
+Tento soubor čte každá relace Claude Code. Obsahuje celý kontext projektu. Repozitář: peternettle/startup-idea.
 
 ## Role a pravidla práce
 
