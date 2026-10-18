@@ -1,0 +1,48 @@
+/last30days · researching: 24 hour live-in care in Germany and Austria with caregivers from Poland, Slovakia, Czechia
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=evergreen_ok, cluster_mode=none, subqueries=3, source=external
+[Planner]   sq1 label=primary search="24 Stunden Pflege Polen Pflegekraft" sources=[reddit,hackernews,youtube]
+[Planner]   sq2 label=agency search="Pflegeagentur 24h Betreuung Erfahrungen Kosten" sources=[reddit,youtube]
+[Planner]   sq3 label=english search="live-in carer Germany Polish caregiver agency" sources=[reddit]
+[HN] Searching for '24 stunden pflege polen pflegekraft' (raw: '24 Stunden Pflege Polen Pflegekraft', since 2026-09-18, count=60)
+[YouTube] Searching YouTube for '24 hour live-in care in germany austria with caregivers from poland, slovakia, czechia' (since 2026-09-18, count=40)
+[HN] Filtered 27/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 44/60 false-positive hits for '24 Stunden Pflege Polen Pflegekraft'
+[HN] Enriching top 10 stories with comments
+[YouTube] YouTube search returned 0 results
+[YouTube] Searching YouTube for '24 hour live-in care in germany austria with caregivers from poland, slovakia, czechia review reaction breakdown' (since 2026-09-18, count=40)
+[YouTube] YouTube search returned 0 results
+[YouTube] Searching YouTube for '24 hour live-in care in germany austria with caregivers from poland, slovakia, czechia full complete official' (since 2026-09-18, count=40)
+[YouTube] YouTube search returned 0 results
+[RedditSearch] 50 posts (t=month, 6 targeted subs)
+[RedditSearch] 50 posts (t=month, 6 targeted subs)
+[RedditSearch] 50 posts (t=month, 6 targeted subs)
+[ArcticShift] listing search failed r/Austria: HTTP 422: Unprocessable Entity
+[ArcticShift] listing search failed r/AgingParents: HTTP 429: Too Many Requests
+[RedditKeyless] arctic-shift supplement: 119 new posts from 250 arctic results
+[RedditKeyless] Tier 1 (site search) 50 posts; listing discovery 431
+[RedditKeyless] arctic-shift supplement: 122 new posts from 250 arctic results
+[RedditKeyless] Tier 1 (site search) 50 posts; listing discovery 434
+[RedditKeyless] arctic-shift supplement: 144 new posts from 300 arctic results
+[RedditKeyless] Tier 1 (site search) 50 posts; listing discovery 456
+[RedditKeyless] arctic-shift backfilled 56 post scores
+[RedditKeyless] Relevance floor dropped 465 off-topic posts
+[RedditKeyless] arctic-shift backfilled 56 post scores
+[RedditKeyless] Relevance floor dropped 467 off-topic posts
+[RedditKeyless] arctic-shift backfilled 56 post scores
+[RedditKeyless] Relevance floor dropped 489 off-topic posts
+[Hacker News] relevance prune dropped 15 of 16 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 11 of 12 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 12 of 13 items below the relevance/engagement floor
+[Reddit] relevance prune dropped 8 of 13 items below the relevance/engagement floor
+[HN] Searching for '24 hour live in' (raw: '24 hour live-in', since 2026-09-18, count=60)
+[HN] Filtered 49/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 22/60 false-positive hits for '24 hour live-in'
+[HN] Enriching top 10 stories with comments
+[Hacker News] relevance prune dropped 34 of 38 items below the relevance/engagement floor
+✓ Research complete (58.7s) - Reddit: 6 threads, YouTube: 0 videos, HN: 4 stories, Polymarket: 0 markets, Github: 0 results
+[last30days] Saved output to /home/user/startup-idea/02-prilezitosti/raw-signaly/24-hour-live-in-care-in-germany-and-austria-with-caregivers-from-poland-slovakia-czechia-raw-v3.md
+
+Optional source omitted: X/Twitter was not enabled; research continued with the available sources.
